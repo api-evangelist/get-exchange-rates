@@ -1,0 +1,40 @@
+{
+    "name": "Get Exchange Rates",
+    "description": "Use the Free Get Exchange Rates API to convert currencies in real-time and retrieve simple currency exchange rates in JSON format.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Screen Shot 2017-12-26 at 8.55.01 PM.png",
+    "tags": [
+        "api provider",
+        "currencies",
+        "exchange",
+        "financial",
+        "have api",
+        "identities"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/get-exchange-rates\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Get Exchange Rates",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Screen Shot 2017-12-26 at 8.55.01 PM.png",
+            "humanURL": "http:\/\/www.getexchangerates.com\/api\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/get-exchange-rates-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.getexchangerates.com\/api\/"
+        }
+    ]
+}
